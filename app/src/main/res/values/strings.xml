@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sandwich</string>
+    <string name="filling">Cheddar Cheese</string>
+    <string name="filling_description">A ripe and creamy cheddar from the south west</string>
+    <string name="calories">37 kcal / slice</string>
+    <string name="action">ADD</string>
+    <string name="alternative_text">A picture of some cheddar cheese</string>
+</resources>
